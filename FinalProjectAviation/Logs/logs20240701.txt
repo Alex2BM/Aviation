@@ -1,0 +1,54 @@
+[01-07-2024 00:15:10207 +02:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[01-07-2024 00:15:10536 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7113"
+[01-07-2024 00:15:10537 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5211"
+[01-07-2024 00:15:10540 +02:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[01-07-2024 00:15:10541 +02:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[01-07-2024 00:15:10541 +02:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation"
+[01-07-2024 00:15:11318 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[01-07-2024 00:15:11488 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.UserController.Login (FinalProjectAviation)"'
+[01-07-2024 00:15:11524 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Login\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Login()" on controller "FinalProjectAviation.Controllers.UserController" ("FinalProjectAviation").
+[01-07-2024 00:15:11773 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Login".
+[01-07-2024 00:15:11913 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Login" executed in 141.6457ms.
+[01-07-2024 00:15:11918 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.UserController.Login (FinalProjectAviation)" in 391.98ms
+[01-07-2024 00:15:11946 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.UserController.Login (FinalProjectAviation)"'
+[01-07-2024 00:15:11947 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/css/site.css""?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0" - null null
+[01-07-2024 00:15:11947 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/lib/bootstrap/dist/css/bootstrap.min.css""" - null null
+[01-07-2024 00:15:11947 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - null null
+[01-07-2024 00:15:11947 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/FinalProjectAviation.styles.css""?v=6fDQ3aMiSMSmewBJ9DR4q9Pa5dCdbMaVwRp1JfeF89c" - null null
+[01-07-2024 00:15:11947 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[01-07-2024 00:15:11947 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/lib/jquery/dist/jquery.min.js""" - null null
+[01-07-2024 00:15:11947 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - null null
+[01-07-2024 00:15:11947 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[01-07-2024 00:15:11953 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 637.2269ms
+[01-07-2024 00:15:11954 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/bootstrap/dist/css/bootstrap.min.css" was not modified
+[01-07-2024 00:15:11954 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/bootstrap/dist/js/bootstrap.bundle.min.js" was not modified
+[01-07-2024 00:15:11954 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/css/site.css" was not modified
+[01-07-2024 00:15:11955 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/FinalProjectAviation.styles.css" was not modified
+[01-07-2024 00:15:11957 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/jquery/dist/jquery.min.js" was not modified
+[01-07-2024 00:15:11959 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/js/site.js" was not modified
+[01-07-2024 00:15:11959 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 12.4731ms
+[01-07-2024 00:15:11962 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/lib/bootstrap/dist/css/bootstrap.min.css""" - 304 null "text/css" 15.6669ms
+[01-07-2024 00:15:11962 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - 304 null "text/javascript" 15.8574ms
+[01-07-2024 00:15:11963 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/css/site.css""?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0" - 304 null "text/css" 16.3259ms
+[01-07-2024 00:15:11964 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/FinalProjectAviation.styles.css""?v=6fDQ3aMiSMSmewBJ9DR4q9Pa5dCdbMaVwRp1JfeF89c" - 304 null "text/css" 17.3551ms
+[01-07-2024 00:15:11964 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/lib/jquery/dist/jquery.min.js""" - 304 null "text/javascript" 17.5715ms
+[01-07-2024 00:15:11965 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - 304 null "text/javascript" 17.9258ms
+[01-07-2024 00:15:11978 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/wwwroot/Στιγμιότυπο οθόνης 2024-06-26 165341.png""" - null null
+[01-07-2024 00:15:11985 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/wwwroot/Στιγμιότυπο οθόνης 2024-06-26 165341.png""" - 404 0 null 6.2285ms
+[01-07-2024 00:15:11987 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "https"://"localhost:7113""""/wwwroot/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%202024-06-26%20165341.png", Response status code: 404
+[01-07-2024 00:15:12000 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 52.4062ms
+[01-07-2024 00:15:24187 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/User/Signup""" - null null
+[01-07-2024 00:15:24203 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.UserController.Signup (FinalProjectAviation)"'
+[01-07-2024 00:15:24206 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Signup\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Signup()" on controller "FinalProjectAviation.Controllers.UserController" ("FinalProjectAviation").
+[01-07-2024 00:15:24212 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Signup".
+[01-07-2024 00:15:24225 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Signup" executed in 13.2835ms.
+[01-07-2024 00:15:24230 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.UserController.Signup (FinalProjectAviation)" in 22.7462ms
+[01-07-2024 00:15:24232 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.UserController.Signup (FinalProjectAviation)"'
+[01-07-2024 00:15:24234 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/User/Signup""" - 200 null "text/html; charset=utf-8" 46.5052ms
+[01-07-2024 00:15:24234 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[01-07-2024 00:15:24234 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[01-07-2024 00:15:24240 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 5.9763ms
+[01-07-2024 00:15:24245 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 10.4803ms
+[01-07-2024 00:15:24249 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/wwwroot/background-IMG.jpg""" - null null
+[01-07-2024 00:15:24253 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/wwwroot/background-IMG.jpg""" - 404 0 null 4.1063ms
+[01-07-2024 00:15:24256 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "https"://"localhost:7113""""/wwwroot/background-IMG.jpg", Response status code: 404

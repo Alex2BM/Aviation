@@ -1,0 +1,62 @@
+[04-06-2024 16:55:55542 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("25"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[04-06-2024 16:55:55651 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("33"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[04-06-2024 16:55:55659 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[04-06-2024 16:55:55667 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[04-06-2024 16:55:55776 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("77"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[04-06-2024 16:55:55811 +02:00 Microsoft.EntityFrameworkCore.Migrations ] Applying migration '"20240530115032_InitialCreate"'.
+[04-06-2024 16:55:55979 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("56"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [USERS] (
+    [ID] int NOT NULL IDENTITY,
+    [USERNAME] nvarchar(50) NULL,
+    [PASSWORD] nvarchar(512) NULL,
+    [EMAIL] nvarchar(50) NULL,
+    [FIRSTNAME] nvarchar(50) NULL,
+    [LASTNAME] nvarchar(50) NULL,
+    [USERROLE] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_USERS] PRIMARY KEY ([ID])
+);"
+[04-06-2024 16:55:55997 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("17"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] int NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PASSENGERS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[04-06-2024 16:55:56011 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("14"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PILOTS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [HOURSONAIR] int NULL,
+    [AIRCRAFT] nvarchar(max) NULL,
+    [AIRLINE] nvarchar(max) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PILOTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[04-06-2024 16:55:56023 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("11"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [FLIGHTS] (
+    [ID] int NOT NULL IDENTITY,
+    [FROMCITY] nvarchar(max) NULL,
+    [TOCITY] nvarchar(max) NULL,
+    [TICKETPRICE] int NOT NULL,
+    [PilotId] int NOT NULL,
+    CONSTRAINT [PK_FLIGHTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_FLIGHTS] FOREIGN KEY ([PilotId]) REFERENCES [PILOTS] ([ID]) ON DELETE CASCADE
+);"
+[04-06-2024 16:55:56076 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Failed executing DbCommand ("49"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS_FLIGHTS] (
+    [FlightsId] int NOT NULL,
+    [PassengersId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS_FLIGHTS] PRIMARY KEY ([FlightsId], [PassengersId]),
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_FLIGHTS_FlightsId] FOREIGN KEY ([FlightsId]) REFERENCES [FLIGHTS] ([ID]) ON DELETE CASCADE,
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_PASSENGERS_PassengersId] FOREIGN KEY ([PassengersId]) REFERENCES [PASSENGERS] ([ID]) ON DELETE CASCADE
+);"

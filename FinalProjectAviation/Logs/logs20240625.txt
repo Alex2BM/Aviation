@@ -1,0 +1,686 @@
+[25-06-2024 16:36:11527 +02:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 16:36:11820 +02:00 Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer ] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[25-06-2024 16:36:11913 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7113"
+[25-06-2024 16:36:11914 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5211"
+[25-06-2024 16:36:11916 +02:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 16:36:11917 +02:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 16:36:11917 +02:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation"
+[25-06-2024 17:49:41464 +02:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 17:49:41576 +02:00 Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer ] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[25-06-2024 17:49:41599 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7113"
+[25-06-2024 17:49:41599 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5211"
+[25-06-2024 17:49:41601 +02:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 17:49:41602 +02:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 17:49:41602 +02:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation"
+[25-06-2024 17:52:24805 +02:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 17:52:24871 +02:00 Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer ] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[25-06-2024 17:52:24886 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7113"
+[25-06-2024 17:52:24888 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5211"
+[25-06-2024 17:52:24890 +02:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 17:52:24890 +02:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 17:52:24890 +02:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation"
+[25-06-2024 17:53:30149 +02:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 17:53:30307 +02:00 Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer ] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[25-06-2024 17:53:30351 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7113"
+[25-06-2024 17:53:30352 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5211"
+[25-06-2024 17:53:30353 +02:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 17:53:30354 +02:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 17:53:30355 +02:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation"
+[25-06-2024 17:54:22560 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("21"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 17:54:22606 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("23"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 17:54:22608 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 17:54:22608 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 17:54:22651 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("36"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[25-06-2024 17:54:22660 +02:00 Microsoft.EntityFrameworkCore.Migrations ] Applying migration '"20240530115032_InitialCreate"'.
+[25-06-2024 17:54:22730 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("36"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [USERS] (
+    [ID] int NOT NULL IDENTITY,
+    [USERNAME] nvarchar(50) NULL,
+    [PASSWORD] nvarchar(512) NULL,
+    [EMAIL] nvarchar(50) NULL,
+    [FIRSTNAME] nvarchar(50) NULL,
+    [LASTNAME] nvarchar(50) NULL,
+    [USERROLE] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_USERS] PRIMARY KEY ([ID])
+);"
+[25-06-2024 17:54:22733 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] int NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PASSENGERS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 17:54:22738 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PILOTS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [HOURSONAIR] int NULL,
+    [AIRCRAFT] nvarchar(max) NULL,
+    [AIRLINE] nvarchar(max) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PILOTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 17:54:22740 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [FLIGHTS] (
+    [ID] int NOT NULL IDENTITY,
+    [FROMCITY] nvarchar(max) NULL,
+    [TOCITY] nvarchar(max) NULL,
+    [TICKETPRICE] int NOT NULL,
+    [PilotId] int NOT NULL,
+    CONSTRAINT [PK_FLIGHTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_FLIGHTS] FOREIGN KEY ([PilotId]) REFERENCES [PILOTS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 17:54:22762 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Failed executing DbCommand ("22"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS_FLIGHTS] (
+    [FlightsId] int NOT NULL,
+    [PassengersId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS_FLIGHTS] PRIMARY KEY ([FlightsId], [PassengersId]),
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_FLIGHTS_FlightsId] FOREIGN KEY ([FlightsId]) REFERENCES [FLIGHTS] ([ID]) ON DELETE CASCADE,
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_PASSENGERS_PassengersId] FOREIGN KEY ([PassengersId]) REFERENCES [PASSENGERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:06:42659 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("12"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:06:42704 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("13"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:06:42706 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:06:42708 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:06:42729 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("14"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[25-06-2024 18:06:42737 +02:00 Microsoft.EntityFrameworkCore.Migrations ] Applying migration '"20240530115032_InitialCreate"'.
+[25-06-2024 18:06:42783 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [USERS] (
+    [ID] int NOT NULL IDENTITY,
+    [USERNAME] nvarchar(50) NULL,
+    [PASSWORD] nvarchar(512) NULL,
+    [EMAIL] nvarchar(50) NULL,
+    [FIRSTNAME] nvarchar(50) NULL,
+    [LASTNAME] nvarchar(50) NULL,
+    [USERROLE] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_USERS] PRIMARY KEY ([ID])
+);"
+[25-06-2024 18:06:42785 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] int NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PASSENGERS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:06:42787 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PILOTS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [HOURSONAIR] int NULL,
+    [AIRCRAFT] nvarchar(max) NULL,
+    [AIRLINE] nvarchar(max) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PILOTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:06:42789 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [FLIGHTS] (
+    [ID] int NOT NULL IDENTITY,
+    [FROMCITY] nvarchar(max) NULL,
+    [TOCITY] nvarchar(max) NULL,
+    [TICKETPRICE] int NOT NULL,
+    [PilotId] int NOT NULL,
+    CONSTRAINT [PK_FLIGHTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_FLIGHTS] FOREIGN KEY ([PilotId]) REFERENCES [PILOTS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:06:42795 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Failed executing DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS_FLIGHTS] (
+    [FlightsId] int NOT NULL,
+    [PassengersId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS_FLIGHTS] PRIMARY KEY ([FlightsId], [PassengersId]),
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_FLIGHTS_FlightsId] FOREIGN KEY ([FlightsId]) REFERENCES [FLIGHTS] ([ID]) ON DELETE CASCADE,
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_PASSENGERS_PassengersId] FOREIGN KEY ([PassengersId]) REFERENCES [PASSENGERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:09:10486 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:09:10525 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("13"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:09:10527 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:09:10528 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:09:10540 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[25-06-2024 18:09:10548 +02:00 Microsoft.EntityFrameworkCore.Migrations ] Applying migration '"20240530115032_InitialCreate"'.
+[25-06-2024 18:09:10586 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [USERS] (
+    [ID] int NOT NULL IDENTITY,
+    [USERNAME] nvarchar(50) NULL,
+    [PASSWORD] nvarchar(512) NULL,
+    [EMAIL] nvarchar(50) NULL,
+    [FIRSTNAME] nvarchar(50) NULL,
+    [LASTNAME] nvarchar(50) NULL,
+    [USERROLE] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_USERS] PRIMARY KEY ([ID])
+);"
+[25-06-2024 18:09:10588 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] int NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PASSENGERS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:09:10590 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PILOTS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [HOURSONAIR] int NULL,
+    [AIRCRAFT] nvarchar(max) NULL,
+    [AIRLINE] nvarchar(max) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PILOTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:09:10592 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [FLIGHTS] (
+    [ID] int NOT NULL IDENTITY,
+    [FROMCITY] nvarchar(max) NULL,
+    [TOCITY] nvarchar(max) NULL,
+    [TICKETPRICE] int NOT NULL,
+    [PilotId] int NOT NULL,
+    CONSTRAINT [PK_FLIGHTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_FLIGHTS] FOREIGN KEY ([PilotId]) REFERENCES [PILOTS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:09:10597 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Failed executing DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS_FLIGHTS] (
+    [FlightsId] int NOT NULL,
+    [PassengersId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS_FLIGHTS] PRIMARY KEY ([FlightsId], [PassengersId]),
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_FLIGHTS_FlightsId] FOREIGN KEY ([FlightsId]) REFERENCES [FLIGHTS] ([ID]) ON DELETE CASCADE,
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_PASSENGERS_PassengersId] FOREIGN KEY ([PassengersId]) REFERENCES [PASSENGERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:12:10777 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("11"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:12:10820 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("15"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:12:10822 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:12:10823 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:12:10838 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[25-06-2024 18:12:10847 +02:00 Microsoft.EntityFrameworkCore.Migrations ] Applying migration '"20240530115032_InitialCreate"'.
+[25-06-2024 18:12:10896 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [USERS] (
+    [ID] int NOT NULL IDENTITY,
+    [USERNAME] nvarchar(50) NULL,
+    [PASSWORD] nvarchar(512) NULL,
+    [EMAIL] nvarchar(50) NULL,
+    [FIRSTNAME] nvarchar(50) NULL,
+    [LASTNAME] nvarchar(50) NULL,
+    [USERROLE] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_USERS] PRIMARY KEY ([ID])
+);"
+[25-06-2024 18:12:10899 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] int NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PASSENGERS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:12:10902 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PILOTS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [HOURSONAIR] int NULL,
+    [AIRCRAFT] nvarchar(max) NULL,
+    [AIRLINE] nvarchar(max) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PILOTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:12:10904 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [FLIGHTS] (
+    [ID] int NOT NULL IDENTITY,
+    [FROMCITY] nvarchar(max) NULL,
+    [TOCITY] nvarchar(max) NULL,
+    [TICKETPRICE] int NOT NULL,
+    [PilotId] int NOT NULL,
+    CONSTRAINT [PK_FLIGHTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_FLIGHTS] FOREIGN KEY ([PilotId]) REFERENCES [PILOTS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:12:10911 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Failed executing DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS_FLIGHTS] (
+    [FlightsId] int NOT NULL,
+    [PassengersId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS_FLIGHTS] PRIMARY KEY ([FlightsId], [PassengersId]),
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_FLIGHTS_FlightsId] FOREIGN KEY ([FlightsId]) REFERENCES [FLIGHTS] ([ID]) ON DELETE CASCADE,
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_PASSENGERS_PassengersId] FOREIGN KEY ([PassengersId]) REFERENCES [PASSENGERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:13:45313 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:13:45349 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("13"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:13:45351 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:13:45351 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:13:45369 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("11"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[25-06-2024 18:13:45378 +02:00 Microsoft.EntityFrameworkCore.Migrations ] Applying migration '"20240530115032_InitialCreate"'.
+[25-06-2024 18:13:45425 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [USERS] (
+    [ID] int NOT NULL IDENTITY,
+    [USERNAME] nvarchar(50) NULL,
+    [PASSWORD] nvarchar(512) NULL,
+    [EMAIL] nvarchar(50) NULL,
+    [FIRSTNAME] nvarchar(50) NULL,
+    [LASTNAME] nvarchar(50) NULL,
+    [USERROLE] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_USERS] PRIMARY KEY ([ID])
+);"
+[25-06-2024 18:13:45429 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] int NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PASSENGERS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:13:45432 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PILOTS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [HOURSONAIR] int NULL,
+    [AIRCRAFT] nvarchar(max) NULL,
+    [AIRLINE] nvarchar(max) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PILOTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:13:45435 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [FLIGHTS] (
+    [ID] int NOT NULL IDENTITY,
+    [FROMCITY] nvarchar(max) NULL,
+    [TOCITY] nvarchar(max) NULL,
+    [TICKETPRICE] int NOT NULL,
+    [PilotId] int NOT NULL,
+    CONSTRAINT [PK_FLIGHTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_FLIGHTS] FOREIGN KEY ([PilotId]) REFERENCES [PILOTS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:13:45442 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Failed executing DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS_FLIGHTS] (
+    [FlightsId] int NOT NULL,
+    [PassengersId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS_FLIGHTS] PRIMARY KEY ([FlightsId], [PassengersId]),
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_FLIGHTS_FlightsId] FOREIGN KEY ([FlightsId]) REFERENCES [FLIGHTS] ([ID]) ON DELETE CASCADE,
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_PASSENGERS_PassengersId] FOREIGN KEY ([PassengersId]) REFERENCES [PASSENGERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:17:58043 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("11"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:17:58088 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("15"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:17:58089 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:17:58090 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:17:58103 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[25-06-2024 18:17:58111 +02:00 Microsoft.EntityFrameworkCore.Migrations ] Applying migration '"20240625161742_A"'.
+[25-06-2024 18:17:58153 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [USERS] (
+    [ID] int NOT NULL IDENTITY,
+    [USERNAME] nvarchar(50) NULL,
+    [PASSWORD] nvarchar(512) NULL,
+    [EMAIL] nvarchar(50) NULL,
+    [FIRSTNAME] nvarchar(50) NULL,
+    [LASTNAME] nvarchar(50) NULL,
+    [USERROLE] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_USERS] PRIMARY KEY ([ID])
+);"
+[25-06-2024 18:17:58155 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PASSENGERS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:17:58158 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PILOTS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PILOTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:17:58160 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [FLIGHTS] (
+    [ID] int NOT NULL IDENTITY,
+    [FROMCITY] nvarchar(max) NULL,
+    [TOCITY] nvarchar(max) NULL,
+    [TICKETPRICE] int NOT NULL,
+    [PilotId] int NOT NULL,
+    CONSTRAINT [PK_FLIGHTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_FLIGHTS] FOREIGN KEY ([PilotId]) REFERENCES [PILOTS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:17:58169 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Failed executing DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS_FLIGHTS] (
+    [FlightsId] int NOT NULL,
+    [PassengersId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS_FLIGHTS] PRIMARY KEY ([FlightsId], [PassengersId]),
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_FLIGHTS_FlightsId] FOREIGN KEY ([FlightsId]) REFERENCES [FLIGHTS] ([ID]) ON DELETE CASCADE,
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_PASSENGERS_PassengersId] FOREIGN KEY ([PassengersId]) REFERENCES [PASSENGERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:20:21118 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("12"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:20:21156 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("15"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:20:21157 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[25-06-2024 18:20:21158 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[25-06-2024 18:20:21171 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[25-06-2024 18:20:21179 +02:00 Microsoft.EntityFrameworkCore.Migrations ] Applying migration '"20240625161742_A"'.
+[25-06-2024 18:20:21223 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("14"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [USERS] (
+    [ID] int NOT NULL IDENTITY,
+    [USERNAME] nvarchar(50) NULL,
+    [PASSWORD] nvarchar(512) NULL,
+    [EMAIL] nvarchar(50) NULL,
+    [FIRSTNAME] nvarchar(50) NULL,
+    [LASTNAME] nvarchar(50) NULL,
+    [USERROLE] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_USERS] PRIMARY KEY ([ID])
+);"
+[25-06-2024 18:20:21241 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("17"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PASSENGERS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:20:21247 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PILOTS] (
+    [ID] int NOT NULL IDENTITY,
+    [PHONENUMBER] nvarchar(10) NULL,
+    [ETHNICITY] nvarchar(50) NULL,
+    [UserId] int NOT NULL,
+    CONSTRAINT [PK_PILOTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_USERS] FOREIGN KEY ([UserId]) REFERENCES [USERS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:20:21255 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [FLIGHTS] (
+    [ID] int NOT NULL IDENTITY,
+    [FROMCITY] nvarchar(max) NULL,
+    [TOCITY] nvarchar(max) NULL,
+    [TICKETPRICE] int NOT NULL,
+    [PilotId] int NOT NULL,
+    CONSTRAINT [PK_FLIGHTS] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_PILOTS_FLIGHTS] FOREIGN KEY ([PilotId]) REFERENCES [PILOTS] ([ID]) ON DELETE CASCADE
+);"
+[25-06-2024 18:20:21264 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PASSENGERS_FLIGHTS] (
+    [FlightsId] int NOT NULL,
+    [PassengersId] int NOT NULL,
+    CONSTRAINT [PK_PASSENGERS_FLIGHTS] PRIMARY KEY ([FlightsId], [PassengersId]),
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_FLIGHTS_FlightsId] FOREIGN KEY ([FlightsId]) REFERENCES [FLIGHTS] ([ID]) ON DELETE CASCADE,
+    CONSTRAINT [FK_PASSENGERS_FLIGHTS_PASSENGERS_PassengersId] FOREIGN KEY ([PassengersId]) REFERENCES [PASSENGERS] ([ID])
+);"
+[25-06-2024 18:20:21279 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("15"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_FLIGHTS_PilotId] ON [FLIGHTS] ([PilotId]);"
+[25-06-2024 18:20:21285 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [IX_PASSENGERS_UserId] ON [PASSENGERS] ([UserId]);"
+[25-06-2024 18:20:21292 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_PASSENGERS_FLIGHTS_PassengersId] ON [PASSENGERS_FLIGHTS] ([PassengersId]);"
+[25-06-2024 18:20:21301 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [IX_PILOTS_UserId] ON [PILOTS] ([UserId]);"
+[25-06-2024 18:20:21307 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX [IX_LASTNAME] ON [USERS] ([LASTNAME]);"
+[25-06-2024 18:20:21317 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [UQ_EMAIL] ON [USERS] ([EMAIL]) WHERE [EMAIL] IS NOT NULL;"
+[25-06-2024 18:20:21325 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX [UQ_USERNAME] ON [USERS] ([USERNAME]) WHERE [USERNAME] IS NOT NULL;"
+[25-06-2024 18:20:21343 +02:00 Microsoft.EntityFrameworkCore.Database.Command ] Executed DbCommand ("18"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20240625161742_A', N'8.0.6');"
+[25-06-2024 18:20:51309 +02:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 18:20:51515 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7113"
+[25-06-2024 18:20:51517 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5211"
+[25-06-2024 18:20:51521 +02:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 18:20:51522 +02:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 18:20:51522 +02:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation"
+[25-06-2024 18:20:54410 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:20:56764 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:20:56818 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:20:56831 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:20:57034 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 205.1822ms.
+[25-06-2024 18:20:57035 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 215.8373ms
+[25-06-2024 18:20:57036 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:20:57040 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 2636.4932ms
+[25-06-2024 18:20:57060 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/css/site.css""?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0" - null null
+[25-06-2024 18:20:57060 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/lib/bootstrap/dist/css/bootstrap.min.css""" - null null
+[25-06-2024 18:20:57063 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/lib/jquery/dist/jquery.min.js""" - null null
+[25-06-2024 18:20:57063 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - null null
+[25-06-2024 18:20:57063 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - null null
+[25-06-2024 18:20:57062 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/FinalProjectAviation.styles.css""?v=6fDQ3aMiSMSmewBJ9DR4q9Pa5dCdbMaVwRp1JfeF89c" - null null
+[25-06-2024 18:20:57074 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:20:57109 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:20:57123 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation\wwwroot\js\site.js"'
+[25-06-2024 18:20:57123 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation\wwwroot\css\site.css"'
+[25-06-2024 18:20:57128 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - 200 231 "text/javascript" 64.6021ms
+[25-06-2024 18:20:57129 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/css/site.css""?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0" - 200 362 "text/css" 68.9552ms
+[25-06-2024 18:20:57135 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 61.2517ms
+[25-06-2024 18:20:57126 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/FinalProjectAviation.styles.css"'. Physical path: '"C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation\obj\Debug\net8.0\scopedcss\bundle\FinalProjectAviation.styles.css"'
+[25-06-2024 18:20:57145 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/FinalProjectAviation.styles.css""?v=6fDQ3aMiSMSmewBJ9DR4q9Pa5dCdbMaVwRp1JfeF89c" - 200 1260 "text/css" 82.3419ms
+[25-06-2024 18:20:57149 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css""" - null null
+[25-06-2024 18:20:57162 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.min.css"'. Physical path: '"C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css"'
+[25-06-2024 18:20:57164 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/lib/bootstrap/dist/css/bootstrap.min.css""" - 200 162720 "text/css" 103.5386ms
+[25-06-2024 18:20:57183 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"'. Physical path: '"C:\Users\User\.nuget\packages\microsoft.aspnetcore.components.quickgrid\8.0.4\staticwebassets\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"'
+[25-06-2024 18:20:57184 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css""" - 200 8251 "text/css" 35.5587ms
+[25-06-2024 18:20:57223 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js"'. Physical path: '"C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js"'
+[25-06-2024 18:20:57224 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - 200 78468 "text/javascript" 160.9288ms
+[25-06-2024 18:20:57238 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/jquery/dist/jquery.min.js"'. Physical path: '"C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation\wwwroot\lib\jquery\dist\jquery.min.js"'
+[25-06-2024 18:20:57238 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/lib/jquery/dist/jquery.min.js""" - 200 89501 "text/javascript" 176.2011ms
+[25-06-2024 18:20:57284 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 175.9233ms
+[25-06-2024 18:20:57302 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/favicon.ico""" - null null
+[25-06-2024 18:20:57312 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/favicon.ico"'. Physical path: '"C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation\wwwroot\favicon.ico"'
+[25-06-2024 18:20:57313 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/favicon.ico""" - 200 5430 "image/x-icon" 10.566ms
+[25-06-2024 18:21:01961 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:21:01966 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:21:01968 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:21:01969 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:21:01971 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 2.4481ms.
+[25-06-2024 18:21:01972 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 3.5565ms
+[25-06-2024 18:21:01973 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:21:01973 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 12.1959ms
+[25-06-2024 18:21:01981 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:21:01981 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:21:01988 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 6.9433ms
+[25-06-2024 18:21:01995 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 14.4174ms
+[25-06-2024 18:21:06743 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/Home/Privacy""" - null null
+[25-06-2024 18:21:06749 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Privacy (FinalProjectAviation)"'
+[25-06-2024 18:21:06751 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:21:06752 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 18:21:06754 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 2.5116ms.
+[25-06-2024 18:21:06755 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Privacy (FinalProjectAviation)" in 3.257ms
+[25-06-2024 18:21:06755 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Privacy (FinalProjectAviation)"'
+[25-06-2024 18:21:06756 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/Home/Privacy""" - 200 null "text/html; charset=utf-8" 12.9124ms
+[25-06-2024 18:21:06760 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:21:06760 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:21:06765 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 4.149ms
+[25-06-2024 18:21:06769 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 9.2418ms
+[25-06-2024 18:21:09493 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:21:09496 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:21:09496 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:21:09498 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:21:09499 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.246ms.
+[25-06-2024 18:21:09500 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 2.2506ms
+[25-06-2024 18:21:09500 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:21:09501 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 8.5354ms
+[25-06-2024 18:21:09505 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:21:09505 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:21:09506 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 1.7492ms
+[25-06-2024 18:21:09518 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 13.7352ms
+[25-06-2024 18:21:12660 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:21:12666 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:21:12668 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:21:12669 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:21:12670 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.1823ms.
+[25-06-2024 18:21:12671 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 1.8933ms
+[25-06-2024 18:21:12672 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:21:12672 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 12.2036ms
+[25-06-2024 18:21:12677 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:21:12677 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:21:12679 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 1.9299ms
+[25-06-2024 18:21:12685 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 8.7953ms
+[25-06-2024 18:21:13944 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:21:13946 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:21:13947 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:21:13950 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:21:13952 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.5048ms.
+[25-06-2024 18:21:13952 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 2.4346ms
+[25-06-2024 18:21:13953 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:21:13954 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 10.3501ms
+[25-06-2024 18:21:13960 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:21:13960 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:21:13963 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 3.4545ms
+[25-06-2024 18:21:14001 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 42.055ms
+[25-06-2024 18:21:30970 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:21:30973 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 2.832ms
+[25-06-2024 18:22:23714 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/LogIn""" - null null
+[25-06-2024 18:22:23723 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/LogIn""" - 404 0 null 9.5577ms
+[25-06-2024 18:22:23725 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "https"://"localhost:7113""""/LogIn", Response status code: 404
+[25-06-2024 18:22:26083 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/LogIn""" - null null
+[25-06-2024 18:22:26087 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/LogIn""" - 404 0 null 3.7879ms
+[25-06-2024 18:22:26091 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "https"://"localhost:7113""""/LogIn", Response status code: 404
+[25-06-2024 18:29:39384 +02:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 18:29:39591 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7113"
+[25-06-2024 18:29:39592 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5211"
+[25-06-2024 18:29:39594 +02:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 18:29:39595 +02:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 18:29:39596 +02:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation"
+[25-06-2024 18:29:40517 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:29:40613 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:40650 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:29:40660 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:29:40731 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 72.2838ms.
+[25-06-2024 18:29:40733 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 81.9571ms
+[25-06-2024 18:29:40734 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:40738 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 226.5214ms
+[25-06-2024 18:29:40751 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:29:40751 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/FinalProjectAviation.styles.css""?v=6fDQ3aMiSMSmewBJ9DR4q9Pa5dCdbMaVwRp1JfeF89c" - null null
+[25-06-2024 18:29:40759 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:29:40761 +02:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/FinalProjectAviation.styles.css" was not modified
+[25-06-2024 18:29:40774 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/FinalProjectAviation.styles.css""?v=6fDQ3aMiSMSmewBJ9DR4q9Pa5dCdbMaVwRp1JfeF89c" - 304 null "text/css" 23.007ms
+[25-06-2024 18:29:40777 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 25.7971ms
+[25-06-2024 18:29:40808 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 48.6545ms
+[25-06-2024 18:29:44438 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:29:44445 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:44446 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:29:44447 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:29:44449 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 2.3324ms.
+[25-06-2024 18:29:44450 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 3.259ms
+[25-06-2024 18:29:44451 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:44451 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 13.0796ms
+[25-06-2024 18:29:44455 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:29:44455 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:29:44457 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 1.9817ms
+[25-06-2024 18:29:44475 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 19.6332ms
+[25-06-2024 18:29:49848 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:29:49854 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:49855 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:29:49856 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:29:49857 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.1403ms.
+[25-06-2024 18:29:49858 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 1.8893ms
+[25-06-2024 18:29:49858 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:49859 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 10.6704ms
+[25-06-2024 18:29:49863 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:29:49863 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:29:49867 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 3.288ms
+[25-06-2024 18:29:49872 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 8.4302ms
+[25-06-2024 18:29:50837 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:29:50841 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:50842 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:29:50844 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:29:50845 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.3193ms.
+[25-06-2024 18:29:50846 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 2.0721ms
+[25-06-2024 18:29:50846 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:50847 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 10.7676ms
+[25-06-2024 18:29:50850 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:29:50850 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:29:50852 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 1.7112ms
+[25-06-2024 18:29:50865 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 15.1707ms
+[25-06-2024 18:29:52671 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:29:52674 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:52675 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:29:52676 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:29:52678 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.7997ms.
+[25-06-2024 18:29:52679 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 2.8423ms
+[25-06-2024 18:29:52679 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:52680 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 8.9377ms
+[25-06-2024 18:29:52683 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:29:52683 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:29:52689 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 5.6725ms
+[25-06-2024 18:29:52701 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 17.5271ms
+[25-06-2024 18:29:53832 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:29:53835 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:53836 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "FinalProjectAviation.Controllers.HomeController" ("FinalProjectAviation").
+[25-06-2024 18:29:53838 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:29:53839 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.1553ms.
+[25-06-2024 18:29:53840 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)" in 1.9382ms
+[25-06-2024 18:29:53840 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"FinalProjectAviation.Controllers.HomeController.Index (FinalProjectAviation)"'
+[25-06-2024 18:29:53841 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/""" - 200 null "text/html; charset=utf-8" 8.4726ms
+[25-06-2024 18:29:53845 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - null null
+[25-06-2024 18:29:53845 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - null null
+[25-06-2024 18:29:53847 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_framework/aspnetcore-browser-refresh.js""" - 200 13776 "application/javascript; charset=utf-8" 2.2161ms
+[25-06-2024 18:29:53854 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/2" "GET" "https"://"localhost:7113""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 9.4929ms
+[25-06-2024 18:40:32777 +02:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 18:40:33012 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7113"
+[25-06-2024 18:40:33013 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5211"
+[25-06-2024 18:40:33016 +02:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 18:40:33017 +02:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 18:40:33017 +02:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation"
+[25-06-2024 18:40:35609 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:40:35809 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.UserController.Login (FinalProjectAviation)"'
+[25-06-2024 18:40:35874 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Login\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Login()" on controller "FinalProjectAviation.Controllers.UserController" ("FinalProjectAviation").
+[25-06-2024 18:40:36372 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Login".
+[25-06-2024 18:43:12523 +02:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 18:43:12664 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7113"
+[25-06-2024 18:43:12665 +02:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5211"
+[25-06-2024 18:43:12669 +02:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 18:43:12672 +02:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 18:43:12673 +02:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\User\source\repos\FinalProjectAviation\FinalProjectAviation"
+[25-06-2024 18:43:16064 +02:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/2" "GET" "https"://"localhost:7113""""/""" - null null
+[25-06-2024 18:43:16252 +02:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"FinalProjectAviation.Controllers.UserController.Login (FinalProjectAviation)"'
+[25-06-2024 18:43:16281 +02:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Login\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Login()" on controller "FinalProjectAviation.Controllers.UserController" ("FinalProjectAviation").
+[25-06-2024 18:43:16453 +02:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Login".
